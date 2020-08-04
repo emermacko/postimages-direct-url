@@ -68,4 +68,7 @@ os.system(clear)
 while not check_link(url):
     url = input('[>] Link to gallery: ')
 
-get_urls()
+try:
+    get_urls()
+except Exception as e:
+    print('[ERROR] ', e)
