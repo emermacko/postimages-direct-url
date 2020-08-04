@@ -1,2 +1,2 @@
-# postimages-direct-url
-Get direct urls for all the photos in gallery on [postimages](http://postimages.org/)
+# Direct links collector for [postimages.org](http://postimages.org/)
+Get direct urls for all the photos in a gallery
