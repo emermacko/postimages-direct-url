@@ -27,7 +27,7 @@ def get_urls():
         index += 1
 
     clipboard = ''
-    links.sort(key = lambda x: int(x.split('/')[4].split('-')[0]))
+    #links.sort(key = lambda x: int(x.split('/')[4].split('-')[0]))     ## optional sorting ## create your own rule
     for link in links:
         clipboard += (link + '\n')
 
