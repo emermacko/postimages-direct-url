@@ -13,7 +13,7 @@ def get_urls():
     os.system(clear)
 
     imgs = driver.find_elements_by_css_selector('.img')
-    print('[OK] Found ', len(imgs), ' photos')
+    print(f'[OK] Found {len(imgs)} photos')
 
     for img in imgs:
         urls.append(img.get_attribute('href'))
@@ -27,7 +27,7 @@ def get_urls():
         index += 1
 
     clipboard = ''
-    #links.sort(key = lambda x: int(x.split('/')[4].split('-')[0]))     ## optional sorting ## create your own rule
+    #links.sort(key = lambda x: int(x.split('/')[4].split('-')[0]))     ## optional sorting ## create your own rule if needed
     for link in links:
         clipboard += (link + '\n')
 
