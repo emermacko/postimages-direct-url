@@ -11,6 +11,13 @@ Gets direct urls for all the photos in a gallery
 ## Launching:
 - double click
 - or directly with argument: `python get_direct_urls.py --link [gallery url]`
+- **the script will automatically copy the links to your clipboard**
+
+<br>
+<br>
+
+![get_urls](https://user-images.githubusercontent.com/25122875/89898195-90664480-dbe0-11ea-9e15-2d629b9cee69.jpg)
+
 
 <br>
 
