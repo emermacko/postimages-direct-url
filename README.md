@@ -10,7 +10,7 @@ Script to get direct urls for all the photos in a gallery
 
 ## Launching:
 - double click
-- or directly with argument: `python get_direct_urls.py --link [gallery url]`
+- or directly with an argument: `python get_direct_urls.py --url [gallery url]`
 - **the script will automatically copy the links to your clipboard**  
   
 <br>  
