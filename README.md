@@ -4,7 +4,7 @@ Script to get direct urls for all the photos in a gallery
 <br>
 
 ## Download (for ChromeDriver):
-- Latest release [here](http://bit.ly/postimg-direct-url-releases)
+- Download the latest release [here](http://bit.ly/postimg-direct-url-releases)
 
 <br>
 
