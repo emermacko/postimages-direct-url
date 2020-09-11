@@ -15,9 +15,8 @@ Script to get direct urls for all the photos in a gallery
   
 <br>  
   
-<br>  
-  
-![get_urls](https://user-images.githubusercontent.com/25122875/89898195-90664480-dbe0-11ea-9e15-2d629b9cee69.jpg)
+## Preview:
+![preview](https://user-images.githubusercontent.com/25122875/92968314-307eea00-f47b-11ea-8e01-72201e21f62d.png)
 
 <br>
 
