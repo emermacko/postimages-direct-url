@@ -1,5 +1,5 @@
 # Direct links collector for [postimages.org](http://postimages.org/)
-Script to get direct urls for all the photos in a gallery
+Script to get direct urls for all photos in a gallery
 
 <br>
 
